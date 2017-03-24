@@ -24,4 +24,4 @@
 
 
 
-### 遵循MIT协议  欢拓前端TALKFUN-FE(www.talk-fun.com)
+### 欢拓前端TALKFUN-FE(www.talk-fun.com)
